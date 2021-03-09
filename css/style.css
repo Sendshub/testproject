@@ -1,0 +1,44 @@
+/* line 8, ../../../../../../../../../../../../../Users/mac/Projects/TestProject/sass/style.sass */
+h1 {
+  color: blue;
+  font-size: 50px;
+  display: block;
+  width: 250px;
+  height: 200px;
+  background-color: red;
+}
+
+/* line 13, ../../../../../../../../../../../../../Users/mac/Projects/TestProject/sass/style.sass */
+h2 {
+  color: blue;
+}
+
+/* line 16, ../../../../../../../../../../../../../Users/mac/Projects/TestProject/sass/style.sass */
+.block {
+  background-color: black;
+}
+
+/* line 18, ../../../../../../../../../../../../../Users/mac/Projects/TestProject/sass/style.sass */
+.block h3 {
+  color: blue;
+}
+
+/* line 20, ../../../../../../../../../../../../../Users/mac/Projects/TestProject/sass/style.sass */
+.block_color {
+  background-color: #fff;
+}
+
+/* line 22, ../../../../../../../../../../../../../Users/mac/Projects/TestProject/sass/style.sass */
+.block_color button {
+  display: block;
+  width: 250px;
+  height: 200px;
+  background-color: red;
+}
+
+/* line 24, ../../../../../../../../../../../../../Users/mac/Projects/TestProject/sass/style.sass */
+.block .block_color {
+  color: blue;
+}
+
+/*# sourceMappingURL=style.css.map */
